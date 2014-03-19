@@ -1,0 +1,9 @@
+Package: Zmays.angsd.tilbkn.AGPv2.17
+Title: Zea mays ANGSD data, for teosinte and landrace samples
+Description: This package contains ANGSD data for teosinte and landrace samples, aligned with BWA-MEM and stored as GenomicRanges objects.
+Version: 0.1
+Authors@R: 'Vince Buffalo <vsbuffaloAAAAA@gmail.com> [aut, cre]'
+Depends: GenomicRanges, angsdr, rtracklayer, TxDb.Zmays.Ensembl.AGPv2.17, ggplot2
+Imports: GenomicRanges, angsdr, rtracklayer, TxDb.Zmays.Ensembl.AGPv2.17, ggplot2
+License: BSD
+LazyData: true
